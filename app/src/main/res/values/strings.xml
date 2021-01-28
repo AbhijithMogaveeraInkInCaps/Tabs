@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="poemHindhi">
+        सचिन ने 23 दिसम्बर, 2012 को एक दिवसीय क्रिकेट को पहले ही अलविदा कर दिया था। उन्होंने सपना पहला वनडे 18 दिसम्बर, 1989 को गुजरांवाला में पाकिस्तान के ख़िलाफ़ खेला था और उनका आखिरी वनडे 18 मार्च, 2012 को पाकिस्तान के खिलाफ ही ढाका में रहा जब उनकी उम्र 38 साल थी। सचिन ने अपने कैरियर में सिर्फ एक टी20 अंतरराष्ट्रीय मैच खेला था और यह मैच उन्होंने एक दिसम्बर, 2006 को जोहान्सबर्ग में दक्षिण अफ्रीका के खिलाफ खेला था। सचिन अंतराष्ट्रीय टी20 को काफी पहले ही अलविदा कह चुके थे।
+
+सचिन तेंडुलकर ने अपने केरोयर के पहले वनडे में शून्य पर आउट हो गए थे। उनका पहला अर्द्धशतक 9वे वनडे में बना था। लेकिन जब उन्हें 1994 में आँकलेण्ड में न्यूजीलैंड के खिलाफ ओपनिग में उतारा गया तो उसके बाद तो सचिन ने क्रिकेट का इतिहास ही बदल डाला। इस मैच में उन्होंने मात्र 49 गेंदों में 82 रन ठोके। सचिन ने पहला वनडे शतक 97वे वनडे मैच में बनाया, लेकिन उसके बाद तो उनके बल्ले से जैसे शतकों की झड़ी ही लग गई। सचिन ने टेस्ट क्रिकेट में तो शतकों का अर्धशतक पूरा किया पर वनडे क्रिकेट में वह इस उपलब्धि से एक शतक पीछे रह गए। फिर भी, शतकों के महाशतक का ताज तो उनके शीश पर सदैव रहेगा। पिछले 24 साल में सचिन एक ऐसी मिसाल बन गए है, जिसने पूरी एक पीढ़ी को परिभाषित किया है। एक चमत्कारी बालक से लेकर सुपरस्टार और अनुभवी अगुआ तक उन्होंने हर भूमिका बखूबी निभाई है। लेकिन खेल जगत की कई दूसरी महान हस्तियों के उलट वह सिर्फ एक एहसास या सनसनी ही नहीँ है। उन्होंने इतने अविश्वसनीय आंकड़े जुटा लिए है। (करीब15,921 टेस्ट रन,18426 वन-डे रन,100 आ अंतराष्टीय शतक) की कोई उन्हें आसानी से नही समझ सकता है।
+
+पिछले सालों में सौरभ गांगुली, अनिल कुंबले, राहुल द्रविड़ और वी.वी.एस. लक्ष्मण जैसे खिलाड़ी विदा हुए है। उस स्वर्णिम पीढ़ी में सबसे पहले आने और सबसे अंत मे सचिन के जाने के बाद आखिरकार अब सबका ध्यान एक नई तरह की भारतीय टीम पर जाएगा। भारत की खुशकिस्मती ही कहिए कि इसका मध्यक्रम व्यवस्थित दिख रहा है। चेतेश्वर पुजारा द्रविण की तरह खेलने वाले खिलाड़ी हैं। विराट कोहली भी सचिन के उत्तराधिकारी बन सकते हैं। लेकिन सचीन की गैर-मौजूदगी वाले भारतिय बल्लेबाजी क्रम का अभ्यस्त होने में अभी समय लगेगा। ऑस्ट्रेलिया के ओपनर मैथ्यू हेडन ने एक बार कहा था, “मैने ईशवर को देखा है। वह भारत मे नम्बर चार पर बल्लेबाजी करता हैं।” लेकिन अब ऐसी बल्लेबाजी देखने को नहीँ मिलेगी।
+    </string>
+    <string name="poemEng">
+        A long poem often functions to tell a "tale of the tribe," or a story that encompasses a whole
+        cultures values and history. Ezra Pound coined the phrase, referring to his own long poem The
+        Cantos. The long poem s length and scope can contain concerns of a magnitude that a shorter
+        poem cannot address. The poet may see himself or herself as the "bearer of the light," to use
+        Langston Hughes  term, who leads the journey through a culture s story, or as the one who makes
+        known the light already within the tribe. The poet may also serve as a poet-prophet with special insight for their own tribe
+        In Modern and Contemporary long poems the "tale of the tribe" has frequently been retold by
+        culturally, economically, and socially marginalized persons. Thus, pseudo-epic narratives, such as Derek Walcott s "Omeros," have emerged to occupy voids where post colonial persons, racially oppressed persons, women, and other people who have been ignored by classic epics, and denied a voice in the prestigious genre.
+    A long poem often functions to tell a "tale of the tribe," or a story that encompasses a whole
+        cultures values and history. Ezra Pound coined the phrase, referring to his own long poem The
+        Cantos. The long poem s length and scope can contain concerns of a magnitude that a shorter
+        poem cannot address. The poet may see himself or herself as the "bearer of the light," to use
+        Langston Hughes  term, who leads the journey through a culture s story, or as the one who makes
+        known the light already within the tribe. The poet may also serve as a poet-prophet with special insight for their own tribe
+        In Modern and Contemporary long poems the "tale of the tribe" has frequently been retold by
+        culturally, economically, and socially marginalized persons. Thus, pseudo-epic narratives, such as Derek Walcott s "Omeros," have emerged to occupy voids where post colonial persons, racially oppressed persons, women, and other people who have been ignored by classic epics, and denied a voice in the prestigious genre.
+    A long poem often functions to tell a "tale of the tribe," or a story that encompasses a whole
+        cultures values and history. Ezra Pound coined the phrase, referring to his own long poem The
+        Cantos. The long poem s length and scope can contain concerns of a magnitude that a shorter
+        poem cannot address. The poet may see himself or herself as the "bearer of the light," to use
+        Langston Hughes  term, who leads the journey through a culture s story, or as the one who makes
+        known the light already within the tribe. The poet may also serve as a poet-prophet with special insight for their own tribe
+        In Modern and Contemporary long poems the "tale of the tribe" has frequently been retold by
+        culturally, economically, and socially marginalized persons. Thus, pseudo-epic narratives, such as Derek Walcott s "Omeros," have emerged to occupy voids where post colonial persons, racially oppressed persons, women, and other people who have been ignored by classic epics, and denied a voice in the prestigious genre.
+    A long poem often functions to tell a "tale of the tribe," or a story that encompasses a whole
+        cultures values and history. Ezra Pound coined the phrase, referring to his own long poem The
+        Cantos. The long poem s length and scope can contain concerns of a magnitude that a shorter
+        poem cannot address. The poet may see himself or herself as the "bearer of the light," to use
+        Langston Hughes  term, who leads the journey through a culture s story, or as the one who makes
+        known the light already within the tribe. The poet may also serve as a poet-prophet with special insight for their own tribe
+        In Modern and Contemporary long poems the "tale of the tribe" has frequently been retold by
+        culturally, economically, and socially marginalized persons. Thus, pseudo-epic narratives, such as Derek Walcott s "Omeros," have emerged to occupy voids where post colonial persons, racially oppressed persons, women, and other people who have been ignored by classic epics, and denied a voice in the prestigious genre.
+    </string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
