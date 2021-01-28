@@ -10,7 +10,7 @@ import com.abhijith.tabs.R
 import com.google.android.material.tabs.TabLayout
 
 class FirstFragment : Fragment() {
-    var intPosition:Int = 0
+    var currentTabPosition:Int = 0
     lateinit var tv:TextView
 
     override fun onCreateView(
@@ -27,8 +27,8 @@ class FirstFragment : Fragment() {
         tabBar.addOnTabSelectedListener(object : TabLayout.OnTabSelectedListener {
             override fun onTabSelected(tab: TabLayout.Tab?) {
                 if (tab != null) {
-                    intPosition = tab.position
-                    if(intPosition==0)
+                    currentTabPosition = tab.position
+                    if(currentTabPosition==0)
                         tv.setText(R.string.poemEng)
                     else
                         tv.setText(R.string.poemHindhi)
