@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/subfragment"
+    app:startDestination="@id/subFragmentONE">
+
+    <fragment
+        android:id="@+id/subFragmentONE"
+        android:name="com.abhijith.tabs.ui.fragment.SubFragmentONE"
+        android:label="SubFragmentONE" >
+        <action
+            android:id="@+id/action_subFragmentONE_to_subFragmentTWO"
+            app:destination="@id/subFragmentTWO" />
+    </fragment>
+    <fragment
+        android:id="@+id/subFragmentTWO"
+        android:name="com.abhijith.tabs.ui.fragment.SubFragmentTWO"
+        android:label="SubFragmentTWO" >
+        <action
+            android:id="@+id/action_subFragmentTWO_to_subFragmentONE"
+            app:destination="@id/subFragmentONE" />
+    </fragment>
+</navigation>
